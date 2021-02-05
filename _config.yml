@@ -80,7 +80,7 @@ content:
             This topic provides an in-depth explanation about what policies are and why you’ll use them. I rewrote and reorganized this topic based on content that existed from before I started with the company. The only parts that I didn’t rewrite entirely (except to edit for consistency) are: Policy Status and Policy Evaluation. 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
