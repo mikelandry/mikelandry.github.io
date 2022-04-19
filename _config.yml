@@ -61,13 +61,13 @@ content:
       - layout: left
         title: API User Guide
         description: | # this will include new lines to allow paragraphs
-            <a href="https://help.apperian.com/display/pub/Policies+API+Guide" target="_blank">Policies API Guide</a>
+            <a href="https://docs.digital.ai/bundle/app-management/page/Policies-API-Guide_10411115085.html" target="_blank">Policies API Guide</a>
 
             This collection of topics explains how to use one of Digital.ai’s public APIs, and is aimed primarily at developers. Everything listed under Policies API Guide in the TOC is considered part of the sample.
 
             I was solely responsible for writing, organizing, and editing all of this content, including the code samples (which I wrote and tested via Postman). I worked closely with developers throughout the writing process to ensure technical accuracy, and with the Product Manager and QA engineer to ensure overall usability.
 
-            The guide was written and published in Confluence server.
+            The guide was written in Confluence server and published via Zoomin.
       - layout: left
         title: API Reference
         description: | # this will include new lines to allow paragraphs
@@ -79,11 +79,11 @@ content:
       - layout: left
         title: Conceptual Info
         description: | # this will include new lines to allow paragraphs
-            <a href="https://help.apperian.com/display/pub/About+Policies" target="_blank">About Policies</a>
+            <a href="https://docs.digital.ai/bundle/app-management/page/About-Policies_10411114696.html" target="_blank">About Policies</a>
 
             This topic provides an in-depth explanation about what policies are and why you’ll use them. I rewrote and reorganized this topic based on content that existed from before I started with the company. The only parts that I didn’t rewrite entirely (except to edit for consistency) are: Policy Status and Policy Evaluation.
 
-            This was written and published in Confluence server.
+            This was written in Confluence server and published via Zoomin.
 
 # Footer
 footer_show_references: false
