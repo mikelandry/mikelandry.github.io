@@ -77,7 +77,7 @@ content:
 
             I was solely responsible for writing, organizing, and editing all of this content, including the code samples (which I wrote and tested via Postman). I worked closely with developers throughout the writing process to ensure technical accuracy, and with the Product Manager and QA engineer to ensure overall usability.
 
-            The guide was written in Confluence server and published via Zoomin.
+            The guide was written in Markdown and published by Docusaurus.
       - layout: left
         title: API Reference
         description: | # this will include new lines to allow paragraphs
@@ -93,7 +93,7 @@ content:
 
             This topic provides an in-depth explanation about what policies are and why you’ll use them. I rewrote and reorganized this topic based on content that existed from before I started with the company. The only parts that I didn’t rewrite entirely (except to edit for consistency) are: Policy Status and Policy Evaluation.
 
-            This was written in Confluence server and published via Zoomin.
+            This was written in Markdown and published by Docusaurus.
 
 # Footer
 footer_show_references: false
